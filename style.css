@@ -4,6 +4,7 @@ body {
 nav {
   margin-bottom: 20px;
 }
-.breadcrumb {
+ol.breadcrumb {
   background-color: #ffffff;
+  margin-bottom: 0px;
 }
